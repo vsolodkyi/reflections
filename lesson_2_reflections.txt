@@ -23,3 +23,5 @@ The result would be one branch. It's very convenient to see such visualization
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+It's importtant to check and fix conflicts manually because Git can't idenify bug when merging and it's very high probability of errors.
