@@ -19,6 +19,7 @@ We can draw history of branches and see dead branches/
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result would be one branch. It's very convenient to see such visualization 
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
